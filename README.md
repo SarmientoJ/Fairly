@@ -1,1 +1,2 @@
 # Fairly
+Fairly is a platform where employers can easily post job openings, search for qualified candidates, and streamline their hiring workflows, all while providing job seekers with a user-friendly and engaging job search experience.  Fairly is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code.  This repository contains SQL, .NET, and React code for the Blogs feature.
